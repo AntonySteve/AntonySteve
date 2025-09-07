@@ -72,10 +72,6 @@
   <img src="https://leetcard.jacoblin.cool/AntonySteve?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AntonySteve&color=brightgreen" alt="Profile views" />
-</p>
-
 ---
 
 <!-- Fun Snake Animation -->
