@@ -38,11 +38,20 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonySteve&theme=radical" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntonySteve&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AntonySteve&color=brightgreen" alt="Profile views" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=AntonySteve&color=brightgreen)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/AntonySteve?theme=dark&font=Roboto&ext=contest)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AntonySteve?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
+</p>
