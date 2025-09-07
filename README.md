@@ -5,7 +5,7 @@
 - 💼 Aspiring Software Engineer  
 - ⚡ Passionate about Web Development, analytical skills, and Problem Solving  
 - 🌍 Based in India
-- 
+
 ![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonySteve&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonySteve&layout=compact&theme=radical)
 
