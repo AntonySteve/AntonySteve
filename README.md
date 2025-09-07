@@ -15,6 +15,15 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
+</p>
+
+
 ## Connect with Me
 
 <p align="center">
@@ -30,7 +39,7 @@
 </p>
 
 
-[![Gmail](https://img.shields.io/badge/-antonysteve0201@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:antonysteve0201@gmail.com)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntonySteve&theme=radical)
 ![Profile views](https://komarev.com/ghpvc/?username=AntonySteve&color=brightgreen)
