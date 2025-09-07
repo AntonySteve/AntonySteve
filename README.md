@@ -16,7 +16,20 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ## Connect with Me
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/antony-steve)
+
+<p align="center">
+  <a href="https://linkedin.com/in/antony-steve" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Antony%20Steve-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-AntonySteve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:antonysteve0201@gmail.com">
+    <img src="https://img.shields.io/badge/Email-antonysteve0201%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+
 [![Gmail](https://img.shields.io/badge/-antonysteve0201@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:antonysteve0201@gmail.com)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntonySteve&theme=radical)
