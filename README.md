@@ -81,5 +81,6 @@
 <!-- Fun Snake Animation -->
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/AntonySteve/AntonySteve/blob/output/snake.svg" alt="snake animation" />
+  <img src="https://github.com/AntonySteve/AntonySteve/blob/output/snake.svg" alt="snake animation"/>
 </p>
+
