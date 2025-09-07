@@ -20,5 +20,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntonySteve&theme=radical)
 ![Profile views](https://komarev.com/ghpvc/?username=AntonySteve&color=brightgreen)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/AntonySteve/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark&font=Roboto&ext=contest)
