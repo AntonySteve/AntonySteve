@@ -20,3 +20,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntonySteve&theme=radical)
 ![Profile views](https://komarev.com/ghpvc/?username=AntonySteve&color=brightgreen)
+![snake gif](https://github.com/AntonySteve/AntonySteve/blob/output/snake.svg)
+![snake gif](https://github.com/AntonySteve/AntonySteve/blob/output/snake-dark.svg)
