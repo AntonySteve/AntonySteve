@@ -1,6 +1,3 @@
-# Hi, I'm Antony Steve 👨‍💻
-🚀 Software Engineer | 💻 Full-Stack Developer | 🌱 Lifelong Learner
-
 <!-- Header Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
