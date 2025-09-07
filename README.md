@@ -16,7 +16,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-AntonySteve-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/antony-steve)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](your-portfolio-link)
 [![Gmail](https://img.shields.io/badge/-antonysteve0201@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:antonysteve0201@gmail.com)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntonySteve&theme=radical)
